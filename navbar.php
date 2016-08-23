@@ -20,7 +20,7 @@
                     <a href="./gallery.php">แกลเลอรี่</a>
                 </li>
                 <li>
-                    <a href="#">จองสนาม</a>
+                    <a href="./shop.php">จองสนาม</a>
                 </li>
                 <li>
                     <a href="#">Contact</a>
