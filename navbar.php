@@ -23,7 +23,12 @@
                     <a href="./shop.php">จองสนาม</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="#">ติดต่อเรา</a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#">ล็อกอิน</a>
                 </li>
             </ul>
         </div>
