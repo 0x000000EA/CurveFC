@@ -17,6 +17,9 @@
                     <a href="#">About</a>
                 </li>
                 <li>
+                    <a href=".gallery.php">Gallery</a>
+                </li>
+                <li>
                     <a href="#">Services</a>
                 </li>
                 <li>
