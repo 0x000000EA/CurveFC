@@ -14,13 +14,13 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="#">About</a>
+                    <a href="#">เกี่ยวกับ CurveFC</a>
                 </li>
                 <li>
-                    <a href="./gallery.php">Gallery</a>
+                    <a href="./gallery.php">แกลเลอรี่</a>
                 </li>
                 <li>
-                    <a href="#">Services</a>
+                    <a href="#">จองสนาม</a>
                 </li>
                 <li>
                     <a href="#">Contact</a>
