@@ -8,27 +8,27 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">CurveFC</a>
+            <a class="navbar-brand" href="./index.php">CurveFC</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="#">เกี่ยวกับ CurveFC</a>
+                    <a href="#">About CurveFC</a>
                 </li>
                 <li>
-                    <a href="./gallery.php">แกลเลอรี่</a>
+                    <a href="./gallery.php">Gallery</a>
                 </li>
                 <li>
-                    <a href="./shop.php">จองสนาม</a>
+                    <a href="./shop.php">Reservations</a>
                 </li>
                 <li>
-                    <a href="#">ติดต่อเรา</a>
+                    <a href="#">Contact Us</a>
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="#">ล็อกอิน</a>
+                    <a href="./login.php">Login</a>
                 </li>
             </ul>
         </div>

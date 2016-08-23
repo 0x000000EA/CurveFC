@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="width=1,initial-scale=1,user-scalable=1" />
-	<title>CurveFC:ล็อกอิน</title>
+	<title>Insert title here</title>
 
 	<link href="http://fonts.googleapis.com/css?family=Lato:100italic,100,300italic,300,400italic,400,700italic,700,900italic,900" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css" />
@@ -18,37 +18,20 @@
 <body>
 
 	<section class="container">
-	    <section class="login-form">
-
-		<section>
-			<img src="./img/logo.png" alt="" />
-		</section>
-		<div class="panel panel-default">
-		  	<div class="panel-body">
-		    	<form method="post" action="" role="login">
-					<div class="form-group">
-						<label>Username</label>
-						<input type="email" name="email" required class="form-control" />
+			<section class="login-form">
+				<form method="post" action="" role="login">
+					<img src="./img/login_logo.png" class="img-responsive" alt="" />
+					<input type="email" name="email" placeholder="Email" required class="form-control input-lg" />
+					<input type="password" name="password" placeholder="Password" required class="form-control input-lg" />
+					<button type="submit" name="go" class="btn btn-lg btn-primary btn-block">Sign in</button>
+					<div>
+						<a href="#">Create account</a> or <a href="#">reset password</a>
 					</div>
-
-					<div class="form-group">
-						<label>Password</label>
-						<input type="password" name="password" required class="form-control" />
-					</div>
-
-					<input type="checkbox" name="remember" value="1" /> Remember me
-					<button type="submit" name="go" class="btn btn-primary btn-block">Log in</button>
 				</form>
-		  	</div>
-		  	<div class="panel-footer">
-		  		<a href="#">Lost your password?</a>
-		  	</div>
-		</div>
-		<section>
-			<a href="#">&larr; Back to Dashboard</a>
-		</section>
-
-		</section>
+				<div class="form-links">
+					<a href="#">www.website.com</a>
+				</div>
+			</section>
 	</section>
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
